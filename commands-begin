@@ -1,4 +1,4 @@
-Les 3 commandes de Push
+ùLes 3 commandes de Push
 git init nom_du_repository
 /!\ Il faut etre dans le fichier qu'on à cloner.
 git add .
@@ -6,3 +6,7 @@ git commit -m "Inserer une note"
 git push
 
 git pull pour mettre à jour le fichier sur le local.
+/!\ si ca ne marche pas, en amont git checkout .
+
+git branch "nom de la nouvelle branche"
+git checkout "nom de la branche" ==> pour basculer sur la branche existante.
