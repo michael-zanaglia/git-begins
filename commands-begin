@@ -1,4 +1,5 @@
 Les 3 commandes de Push
+git init
 /!\ Il faut etre dans le fichier qu'on a cloner.
 git add.
 git commit -m "Inserer une note"
